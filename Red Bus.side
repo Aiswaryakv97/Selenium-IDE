@@ -1,0 +1,259 @@
+{
+  "id": "2222f7cc-7fe1-4acc-9c5e-811223c4fe32",
+  "version": "2.0",
+  "name": "Red Bus",
+  "url": "https://www.redbus.in",
+  "tests": [{
+    "id": "93048685-e3fc-417a-b616-daad107215b9",
+    "name": "Red Bus",
+    "commands": [{
+      "id": "d735b5bf-4eaf-4597-b159-f33661acc34a",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8e4566f9-b801-4fed-b458-b3040d8ce6f0",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1264x608",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "15023b45-6336-447b-91b5-27d442a728b8",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "453ad514-8d02-41dd-89c7-ff4b251a19f7",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ab07d1ff-2338-4380-be98-9099b6a54c29",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "10ebe303-b045-490c-a248-45764223796c",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b3862564-1331-45aa-8590-a1d20bdf14d7",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "351d688b-0335-47c9-be21-c4591ecdd17c",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c5d29b26-01f3-455d-b68e-b8532e748485",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "462e6d40-6883-4fbd-aaa1-693c3221dae8",
+      "comment": "",
+      "command": "click",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a04f7afa-ad1f-4a8e-9e2f-ccf4eeb82091",
+      "comment": "",
+      "command": "type",
+      "target": "id=src",
+      "targets": [
+        ["id=src", "id"],
+        ["css=#src", "css:finder"],
+        ["xpath=//input[@id='src']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Ba"
+    }, {
+      "id": "b3a1f5a3-e9e2-41bb-8cee-107038159632",
+      "comment": "",
+      "command": "click",
+      "target": "css=.selected",
+      "targets": [
+        ["css=.selected", "css:finder"],
+        ["xpath=//section[@id='search']/div/div/div/ul/li", "xpath:idRelative"],
+        ["xpath=//section/div/div/div/ul/li", "xpath:position"],
+        ["xpath=//li[contains(.,'Bangalore (All Locations)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dd837666-2094-4b2e-8de6-b62c9e351240",
+      "comment": "",
+      "command": "click",
+      "target": "id=dest",
+      "targets": [
+        ["id=dest", "id"],
+        ["css=#dest", "css:finder"],
+        ["xpath=//input[@id='dest']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3dcc2dff-ae8c-438b-bc94-43c359859334",
+      "comment": "",
+      "command": "type",
+      "target": "id=dest",
+      "targets": [
+        ["id=dest", "id"],
+        ["css=#dest", "css:finder"],
+        ["xpath=//input[@id='dest']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "Tr"
+    }, {
+      "id": "e89d3d65-484e-4f99-bd95-7e599aa4668e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.autoFill > li:nth-child(2)",
+      "targets": [
+        ["css=.autoFill > li:nth-child(2)", "css:finder"],
+        ["xpath=//section[@id='search']/div/div[2]/div/ul/li[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/div/ul/li[2]", "xpath:position"],
+        ["xpath=//li[contains(.,'Trivandrum')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7d2ed7a8-9092-4390-95c5-07eba2adacd3",
+      "comment": "",
+      "command": "click",
+      "target": "id=onward_cal",
+      "targets": [
+        ["id=onward_cal", "id"],
+        ["css=#onward_cal", "css:finder"],
+        ["xpath=//input[@id='onward_cal']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/div[3]/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "61943648-69fa-46e6-84bd-92460df79978",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(3) > .we",
+      "targets": [
+        ["css=tr:nth-child(3) > .we", "css:finder"],
+        ["xpath=//div[@id='rb-calendar_onward_cal']/table/tbody/tr[3]/td[7]", "xpath:idRelative"],
+        ["xpath=//td[7]", "xpath:position"],
+        ["xpath=//td[contains(.,'7')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "155b207a-6a5e-4a2c-881d-b85d1914a99f",
+      "comment": "",
+      "command": "click",
+      "target": "id=search_btn",
+      "targets": [
+        ["id=search_btn", "id"],
+        ["css=#search_btn", "css:finder"],
+        ["xpath=//button[@id='search_btn']", "xpath:attributes"],
+        ["xpath=//section[@id='search']/div/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Search Buses')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b1777d3d-29cc-4de3-ab79-c50eab901257",
+      "comment": "",
+      "command": "click",
+      "target": "css=.group-data:nth-child(1) .button",
+      "targets": [
+        ["css=.group-data:nth-child(1) .button", "css:finder"],
+        ["xpath=//div[@id='root']/div/div[2]/div[2]/div[3]/div/div/div[2]/div/div[4]/div[2]", "xpath:idRelative"],
+        ["xpath=//div[4]/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d8a34231-f858-4f8f-808c-d32bcd9ebc95",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "7583e84e-2094-4561-81ad-5552c23bf357",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["93048685-e3fc-417a-b616-daad107215b9"]
+  }],
+  "urls": ["https://www.redbus.in/"],
+  "plugins": []
+}
